@@ -3,5 +3,11 @@
     "description": "Custom class for wordpress post type and user",
     "type": "metapackage",
     "license": "apache2",
-    "require": {}
+    "require": {},
+    "autoload":{
+    	"files": [
+    		"src/wp-factory-class.php",
+    		"src/wp-post-base-class.php"
+    	]
+    }
 }
