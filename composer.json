@@ -1,0 +1,7 @@
+{
+    "name": "eqima/wp-factory",
+    "description": "Custom class for wordpress post type and user",
+    "type": "metapackage",
+    "license": "apache2",
+    "require": {}
+}
